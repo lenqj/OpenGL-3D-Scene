@@ -1,0 +1,238 @@
+# Blender 4.0.2 MTL File: 'untitled.blend'
+# www.blender.org
+
+newmtl Default_OBJ
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Boxes/barrel_2.png
+
+newmtl Default_OBJ.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Boxes/barrel_2.png
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Stairs/maps.hi.207.jpg
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd wall.jpg
+
+newmtl Material.003
+Ns 35.371601
+Ka 0.752294 0.752294 0.752294
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 79.849991
+d 1.000000
+illum 3
+map_Kd ground.jpg
+
+newmtl Material.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Boxes/barrel_2.png
+
+newmtl Material.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Boxes/barrel_2.png
+
+newmtl Material.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Boxes/barrel_2.png
+
+newmtl Material.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Boxes/barrel_11.png
+
+newmtl Material.010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Stairs/maps.hi.207.jpg
+
+newmtl Material.012
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.216364 0.216364 0.216364
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Military/Texture_1.png
+
+newmtl emission_light
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl emission_light.001
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl glass_ball
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd Lamp/glass ball_Base_color.png
+map_Ns Lamp/glass ball_Roughness.png
+map_refl Lamp/glass ball_Metallic.png
+map_d Lamp/glass ball_Opacity.png
+map_Bump -bm 1.000000 Lamp/glass ball_Normal_OpenGL.png
+
+newmtl glass_ball.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd Lamp/glass ball_Base_color.png
+map_Ns Lamp/glass ball_Roughness.png
+map_refl Lamp/glass ball_Metallic.png
+map_d Lamp/glass ball_Opacity.png
+map_Bump -bm 1.000000 Lamp/glass ball_Normal_OpenGL.png
+
+newmtl handle
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Lamp/handle_Base_color.png
+map_Ns Lamp/handle_Roughness.png
+map_refl Lamp/handle_Metallic.png
+map_Bump -bm 1.800000 Lamp/handle_Normal_OpenGL.png
+
+newmtl handle.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Lamp/handle_Base_color.png
+map_Ns Lamp/handle_Roughness.png
+map_refl Lamp/handle_Metallic.png
+map_Bump -bm 1.800000 Lamp/handle_Normal_OpenGL.png
+
+newmtl lamp_top
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Lamp/lamp top_Base_color.png
+map_Ns Lamp/Clamp top_Roughness.png
+map_refl Lamp/lamp top_Metallic.png
+map_Bump -bm 1.000000 Lamp/lamp top_Normal_OpenGL.png
+
+newmtl lamp_top.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Lamp/lamp top_Base_color.png
+map_Ns Lamp/Clamp top_Roughness.png
+map_refl Lamp/lamp top_Metallic.png
+map_Bump -bm 1.000000 Lamp/lamp top_Normal_OpenGL.png
+
+newmtl light_blub_
+Ns 893.885193
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Lamp/light blub_Base_color.png
+map_refl Lamp/light blub_Metallic.png
+map_Bump -bm 1.000000 Lamp/light blub_Normal_OpenGL.png
+
+newmtl light_blub_.001
+Ns 893.885193
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Lamp/light blub_Base_color.png
+map_refl Lamp/light blub_Metallic.png
+map_Bump -bm 1.000000 Lamp/light blub_Normal_OpenGL.png
+
+newmtl picture_1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Military/picture_1.png
